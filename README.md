@@ -7,10 +7,9 @@
 * Eclipse To Compile The Jar File
 
 ## How To Setup
-#### I would like to point out I wrote this in about 5 minutes so the code is ugly and a mess.
+#### The code is ugly and chaotic because it was written in only a few minutes, I should point out.
 
-#### Alrighty starting off you need to add "TikTok.java" in eclipse after you have everything set up to build your plugin. (Youtube It If You Need To)<br>
-#### Next you need to find the line I have shown in the picture below:
+#### After you have everything set up to develop your plugin, you need to add "TikTok.java" in Eclipse. (YouTube It If Needed)<br> Next, identify the line that I've highlighted in the illustration below:
 
 
 ![alt text](https://i.imgur.com/kxuefE6.png)
@@ -19,9 +18,9 @@
 
 ![alt text](https://i.imgur.com/IdsHL6u.png)
 
-#### Change "Mirror" to whatever gift you want to cause the action, change "TNTPrimed" area to whatever code you want to be executed when that gift is received. (You Can Give The Player Diamonds/Dirt/Whatever You Want To Do Here)
+#### Change "Mirror" to whatever gift you want to cause the action, and change the "TNTPrimed" area to whatever code you want to be executed when that gift is received. You can give the player diamonds, dirt, or whatever you want to do here.
 
-#### After you built the plugin you can put it in your server directory and start it and do /kit (Don't Ask Me Why I Set It To /kit), but we are not finished yet. The next step is to set up isaackogans TikTokLive Python Files:
+#### After you build the plugin, you can put it in your server directory, start it, and do /kit (don't ask me why I set it to /kit), but we are not finished yet. The following step is to install isaackogan's TikTokLive Python Files: 
 
 ![alt text](https://i.imgur.com/csvGH14.png)
 
