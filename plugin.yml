@@ -1,0 +1,8 @@
+main: com.tiktok.tiktok.Tiktok
+name: Tiktok
+version: 1.0.0
+description: TikTokLive
+commands:
+   kit:
+      description: Your description
+      usage: /<command>
